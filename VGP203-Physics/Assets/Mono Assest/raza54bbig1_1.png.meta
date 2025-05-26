@@ -1,0 +1,2990 @@
+fileFormatVersion: 2
+guid: e8b5d029959ed484b9f7c593011e9419
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5398580495306554907
+    second: raza54bbig1_1_0
+  - first:
+      213: -8557072799654244623
+    second: raza54bbig1_1_1
+  - first:
+      213: -1994427180377585786
+    second: raza54bbig1_1_2
+  - first:
+      213: 8004080824414757895
+    second: raza54bbig1_1_3
+  - first:
+      213: 6495057465369923545
+    second: raza54bbig1_1_4
+  - first:
+      213: -8304373749644174789
+    second: raza54bbig1_1_5
+  - first:
+      213: -8049650449003379593
+    second: raza54bbig1_1_6
+  - first:
+      213: 5353780307694561269
+    second: raza54bbig1_1_7
+  - first:
+      213: 810440585225648885
+    second: raza54bbig1_1_8
+  - first:
+      213: 4802426413571922317
+    second: raza54bbig1_1_9
+  - first:
+      213: 2740000830030462745
+    second: raza54bbig1_1_10
+  - first:
+      213: 6679946219981249513
+    second: raza54bbig1_1_11
+  - first:
+      213: -5715061594275795019
+    second: raza54bbig1_1_12
+  - first:
+      213: 3861947983188351355
+    second: raza54bbig1_1_13
+  - first:
+      213: -2727900512082669106
+    second: raza54bbig1_1_14
+  - first:
+      213: 1277244556700870343
+    second: raza54bbig1_1_15
+  - first:
+      213: 4784798078717826911
+    second: raza54bbig1_1_16
+  - first:
+      213: -3220176525389973872
+    second: raza54bbig1_1_17
+  - first:
+      213: 8957921580255681369
+    second: raza54bbig1_1_18
+  - first:
+      213: -3627141215834048580
+    second: raza54bbig1_1_19
+  - first:
+      213: 8089453772659437774
+    second: raza54bbig1_1_20
+  - first:
+      213: -2430803831934268516
+    second: raza54bbig1_1_21
+  - first:
+      213: 222543661457098485
+    second: raza54bbig1_1_22
+  - first:
+      213: 1522342389013126331
+    second: raza54bbig1_1_23
+  - first:
+      213: -3881698032563467092
+    second: raza54bbig1_1_24
+  - first:
+      213: 359059325156771519
+    second: raza54bbig1_1_25
+  - first:
+      213: -4497193219807572596
+    second: raza54bbig1_1_26
+  - first:
+      213: -3628146559721247942
+    second: raza54bbig1_1_27
+  - first:
+      213: 5827882548770341513
+    second: raza54bbig1_1_28
+  - first:
+      213: -6909156051257805354
+    second: raza54bbig1_1_29
+  - first:
+      213: 5769197139191901434
+    second: raza54bbig1_1_30
+  - first:
+      213: -2189284116880592649
+    second: raza54bbig1_1_31
+  - first:
+      213: -4398793686497365722
+    second: raza54bbig1_1_32
+  - first:
+      213: 4882329382678050244
+    second: raza54bbig1_1_33
+  - first:
+      213: 4972075408844365616
+    second: raza54bbig1_1_34
+  - first:
+      213: 7453693230955707232
+    second: raza54bbig1_1_35
+  - first:
+      213: -3437185915838035861
+    second: raza54bbig1_1_36
+  - first:
+      213: -6268399581053340324
+    second: raza54bbig1_1_37
+  - first:
+      213: -5756198157800478607
+    second: raza54bbig1_1_38
+  - first:
+      213: 6499187002636738753
+    second: raza54bbig1_1_39
+  - first:
+      213: -4866150038290675939
+    second: raza54bbig1_1_40
+  - first:
+      213: -7250568906787754710
+    second: raza54bbig1_1_41
+  - first:
+      213: 6671383459506820418
+    second: raza54bbig1_1_42
+  - first:
+      213: 458640139192140898
+    second: raza54bbig1_1_43
+  - first:
+      213: -1486463767964769637
+    second: raza54bbig1_1_44
+  - first:
+      213: -376173328357456838
+    second: raza54bbig1_1_45
+  - first:
+      213: 7040413469874300574
+    second: raza54bbig1_1_46
+  - first:
+      213: 6370854809746178805
+    second: raza54bbig1_1_47
+  - first:
+      213: -5578926850849935036
+    second: raza54bbig1_1_48
+  - first:
+      213: -5354509816440812368
+    second: raza54bbig1_1_49
+  - first:
+      213: 7692263453368021203
+    second: raza54bbig1_1_50
+  - first:
+      213: 2511897949296145595
+    second: raza54bbig1_1_51
+  - first:
+      213: 5591187136408887710
+    second: raza54bbig1_1_52
+  - first:
+      213: 8108004565432011055
+    second: raza54bbig1_1_53
+  - first:
+      213: -4543353548609001893
+    second: raza54bbig1_1_54
+  - first:
+      213: 8246537065968871548
+    second: raza54bbig1_1_55
+  - first:
+      213: 5963520386954031953
+    second: raza54bbig1_1_56
+  - first:
+      213: 6216572484154982790
+    second: raza54bbig1_1_57
+  - first:
+      213: 9208957754481983599
+    second: raza54bbig1_1_58
+  - first:
+      213: -6404965880103014581
+    second: raza54bbig1_1_59
+  - first:
+      213: 1918456822770768202
+    second: raza54bbig1_1_60
+  - first:
+      213: -7214421687249556945
+    second: raza54bbig1_1_61
+  - first:
+      213: -3065540213121781697
+    second: raza54bbig1_1_62
+  - first:
+      213: -5698320084114316824
+    second: raza54bbig1_1_63
+  - first:
+      213: 7587563687897673906
+    second: raza54bbig1_1_64
+  - first:
+      213: 3462347058842770697
+    second: raza54bbig1_1_65
+  - first:
+      213: -2582470170278317689
+    second: raza54bbig1_1_66
+  - first:
+      213: -9140248742355565141
+    second: raza54bbig1_1_67
+  - first:
+      213: -448141003478180126
+    second: raza54bbig1_1_68
+  - first:
+      213: -3464089156897774181
+    second: raza54bbig1_1_69
+  - first:
+      213: -734141785146518954
+    second: raza54bbig1_1_70
+  - first:
+      213: -8134341704359186656
+    second: raza54bbig1_1_71
+  - first:
+      213: -5513701095718574080
+    second: raza54bbig1_1_72
+  - first:
+      213: -5621283947091859322
+    second: raza54bbig1_1_73
+  - first:
+      213: 5442067815121750723
+    second: raza54bbig1_1_74
+  - first:
+      213: -774976102295470161
+    second: raza54bbig1_1_75
+  - first:
+      213: 8415153479918637011
+    second: raza54bbig1_1_76
+  - first:
+      213: -1327823731137383144
+    second: raza54bbig1_1_77
+  - first:
+      213: -685152758927025411
+    second: raza54bbig1_1_78
+  - first:
+      213: 855193567562676626
+    second: raza54bbig1_1_79
+  - first:
+      213: -4879747845595753162
+    second: raza54bbig1_1_80
+  - first:
+      213: -5504961173392862576
+    second: raza54bbig1_1_81
+  - first:
+      213: -8794090772604863507
+    second: raza54bbig1_1_82
+  - first:
+      213: 4243698882152433731
+    second: raza54bbig1_1_83
+  - first:
+      213: 4928057452462322692
+    second: raza54bbig1_1_84
+  - first:
+      213: -2452968588847574065
+    second: raza54bbig1_1_85
+  - first:
+      213: -7988507322862627473
+    second: raza54bbig1_1_86
+  - first:
+      213: -8311169262772735794
+    second: raza54bbig1_1_87
+  - first:
+      213: -4036768832508851139
+    second: raza54bbig1_1_88
+  - first:
+      213: -3670561147550836281
+    second: raza54bbig1_1_89
+  - first:
+      213: -169907838595532503
+    second: raza54bbig1_1_90
+  - first:
+      213: -3563304766057735002
+    second: raza54bbig1_1_91
+  - first:
+      213: 3445756243995546720
+    second: raza54bbig1_1_92
+  - first:
+      213: -6832363104629158831
+    second: raza54bbig1_1_93
+  - first:
+      213: -5001215901113800654
+    second: raza54bbig1_1_94
+  - first:
+      213: -7832966251547230155
+    second: raza54bbig1_1_95
+  - first:
+      213: 5792463863601427338
+    second: raza54bbig1_1_96
+  - first:
+      213: -7019384118230502625
+    second: raza54bbig1_1_97
+  - first:
+      213: -4606689611665731393
+    second: raza54bbig1_1_98
+  - first:
+      213: -4452043310774399200
+    second: raza54bbig1_1_99
+  - first:
+      213: 5685352908574070845
+    second: raza54bbig1_1_100
+  - first:
+      213: -9150525440295876535
+    second: raza54bbig1_1_101
+  - first:
+      213: -7587775773002963103
+    second: raza54bbig1_1_102
+  - first:
+      213: -5736766086168715772
+    second: raza54bbig1_1_103
+  - first:
+      213: -5960459981977685314
+    second: raza54bbig1_1_104
+  - first:
+      213: -420323420250208423
+    second: raza54bbig1_1_105
+  - first:
+      213: -475798739604510958
+    second: raza54bbig1_1_106
+  - first:
+      213: 4122487872462972018
+    second: raza54bbig1_1_107
+  - first:
+      213: -7637329680850541183
+    second: raza54bbig1_1_108
+  - first:
+      213: 8413662817872770119
+    second: raza54bbig1_1_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raza54bbig1_1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 280
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e791a8b5c9bea40800000000000000
+      internalID: 5398580495306554907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe837340ab2f3980800000000000000
+      internalID: -8557072799654244623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 280
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687c53fdb0f5254e0800000000000000
+      internalID: -1994427180377585786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 224
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704e1c43a15341f60800000000000000
+      internalID: 8004080824414757895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 280
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8f1b3a54132a50800000000000000
+      internalID: 6495057465369923545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a516ab210f0cc80800000000000000
+      internalID: -8304373749644174789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 224
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7740715c095e94090800000000000000
+      internalID: -8049650449003379593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 280
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7ad9503d27c4a40800000000000000
+      internalID: 5353780307694561269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa3fe91b634f3b00800000000000000
+      internalID: 810440585225648885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 280
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8958e8f065a5a240800000000000000
+      internalID: 4802426413571922317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 280
+        width: 36
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fbd3edc30760620800000000000000
+      internalID: 2740000830030462745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 224
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb12b8f1bfe3bc50800000000000000
+      internalID: 6679946219981249513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 224
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa6bb72c500b0b0800000000000000
+      internalID: -5715061594275795019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 280
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b795afeaa35689530800000000000000
+      internalID: 3861947983188351355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 224
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d4b2ffec842ad0800000000000000
+      internalID: -2727900512082669106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 280
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6e47d382fa9b110800000000000000
+      internalID: 1277244556700870343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 224
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5792fb6084076240800000000000000
+      internalID: 4784798078717826911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 280
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096341ae282af43d0800000000000000
+      internalID: -3220176525389973872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 280
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b12f4573ee05c70800000000000000
+      internalID: 8957921580255681369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb77808184ec9adc0800000000000000
+      internalID: -3627141215834048580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 280
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec03f42b853834070800000000000000
+      internalID: 8089453772659437774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 224
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b46e63bcc044ed0800000000000000
+      internalID: -2430803831934268516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 280
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f64a20f742a61300800000000000000
+      internalID: 222543661457098485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 224
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc95ab4652702510800000000000000
+      internalID: 1522342389013126331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_24
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacc8bb9430712ac0800000000000000
+      internalID: -3881698032563467092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_25
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 224
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6c249cd82abf400800000000000000
+      internalID: 359059325156771519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_26
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d031ff792c691c0800000000000000
+      internalID: -4497193219807572596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_27
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 224
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b62ca3deb36adc0800000000000000
+      internalID: -3628146559721247942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_28
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 280
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828728fc4cc0e050800000000000000
+      internalID: 5827882548770341513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 226
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5b90b7d2fbd10a0800000000000000
+      internalID: -6909156051257805354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_30
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 280
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcabb84b3e401050800000000000000
+      internalID: 5769197139191901434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_31
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 228
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f07dece1b91e91e0800000000000000
+      internalID: -2189284116880592649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_32
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 280
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621f71ca27854f2c0800000000000000
+      internalID: -4398793686497365722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 228
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c53af2b4b481c340800000000000000
+      internalID: 4882329382678050244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_34
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 280
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9f9cbd3c500540800000000000000
+      internalID: 4972075408844365616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_35
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 228
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b39df8086d07760800000000000000
+      internalID: 7453693230955707232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_36
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 280
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b688f7bde99ac40d0800000000000000
+      internalID: -3437185915838035861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_37
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 228
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55bb1ddacb2209a0800000000000000
+      internalID: -6268399581053340324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_38
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 280
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786b8be540ed10b0800000000000000
+      internalID: -5756198157800478607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 228
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0affc0520c13a50800000000000000
+      internalID: 6499187002636738753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 177
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d174ee77256f77cb0800000000000000
+      internalID: -4866150038290675939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 168
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6c639efdc06b90800000000000000
+      internalID: -7250568906787754710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451250f8e3859c50800000000000000
+      internalID: 6671383459506820418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 168
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2648840d6ca6d5600800000000000000
+      internalID: 458640139192140898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92a8f224150f5be0800000000000000
+      internalID: -1486463767964769637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_45
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 168
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340745d95097caf0800000000000000
+      internalID: -376173328357456838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_46
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 168
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96abb7cfb294b160800000000000000
+      internalID: 7040413469874300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 168
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2828af1b2d96850800000000000000
+      internalID: 6370854809746178805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 168
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441733b669ba392b0800000000000000
+      internalID: -5578926850849935036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_49
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 168
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc04bcf0b5f0b5b0800000000000000
+      internalID: -5354509816440812368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_50
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 168
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d078b00bd860ca60800000000000000
+      internalID: 7692263453368021203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_51
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 168
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb434d350ed0cd220800000000000000
+      internalID: 2511897949296145595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal 1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 168
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a262c313e79d40800000000000000
+      internalID: 5591187136408887710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_53
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 168
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2902d7b13b658070800000000000000
+      internalID: 8108004565432011055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_54
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 168
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56662ee404c2f0c0800000000000000
+      internalID: -4543353548609001893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_55
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 168
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78aa2cf4c5917270800000000000000
+      internalID: 8246537065968871548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_56
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 169
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153f133223ea2c250800000000000000
+      internalID: 5963520386954031953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_57
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 168
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681868eccb3b54650800000000000000
+      internalID: 6216572484154982790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_58
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 168
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f604a7b594acccf70800000000000000
+      internalID: 9208957754481983599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_59
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 168
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f66fd877dfc17a0800000000000000
+      internalID: -6404965880103014581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a491d2ed05abf9a10800000000000000
+      internalID: 1918456822770768202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 113
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aad97f2b931eb90800000000000000
+      internalID: -7214421687249556945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 113
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3073380b630575d0800000000000000
+      internalID: -3065540213121781697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 112
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e164e113108be0b0800000000000000
+      internalID: -5698320084114316824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 112
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b03bc739f07c4960800000000000000
+      internalID: 7587563687897673906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 112
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d11734e4abc0030800000000000000
+      internalID: 3462347058842770697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 112
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781b4890019392cd0800000000000000
+      internalID: -2582470170278317689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 112
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba58f292230572180800000000000000
+      internalID: -9140248742355565141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 112
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee5566b122e7c9f0800000000000000
+      internalID: -448141003478180126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 112
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9563dce3451defc0800000000000000
+      internalID: -3464089156897774181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6521291afedcfc5f0800000000000000
+      internalID: -734141785146518954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 112
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f660641530d1f80800000000000000
+      internalID: -8134341704359186656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal 2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 112
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0082308f0166b73b0800000000000000
+      internalID: -5513701095718574080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_73
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 112
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688ebff68003df1b0800000000000000
+      internalID: -5621283947091859322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_74
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 112
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0be338db168b40800000000000000
+      internalID: 5442067815121750723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_75
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 112
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faff249475bbe35f0800000000000000
+      internalID: -774976102295470161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goal 3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 112
+        width: 24
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df41fc2181a8c470800000000000000
+      internalID: 8415153479918637011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_77
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 112
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815f8350a5f929de0800000000000000
+      internalID: -1327823731137383144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_78
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 113
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa96432239dd76f0800000000000000
+      internalID: -685152758927025411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_79
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 112
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b5c8c4024edb00800000000000000
+      internalID: 855193567562676626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63599cd3037a74cb0800000000000000
+      internalID: -4879747845595753162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_81
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 56
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d995baf27a93b0800000000000000
+      internalID: -5504961173392862576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb850190d15f580800000000000000
+      internalID: -8794090772604863507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 56
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3480b6436a5a4ea30800000000000000
+      internalID: 4243698882152433731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_84
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 87
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404bbbe942af36440800000000000000
+      internalID: 4928057452462322692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 55
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc39c88901e45fdd0800000000000000
+      internalID: -2452968588847574065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 56
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f659a2f2aee132190800000000000000
+      internalID: -7988507322862627473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_87
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 56
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec03948079bc8ac80800000000000000
+      internalID: -8311169262772735794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_88
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 56
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c01f172248af7c0800000000000000
+      internalID: -4036768832508851139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_89
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 56
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9d1e1751c8f0dc0800000000000000
+      internalID: -3670561147550836281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_90
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 60
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92975f398bd54adf0800000000000000
+      internalID: -169907838595532503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_91
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 60
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1ca8c1399c8ec0800000000000000
+      internalID: -3563304766057735002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_92
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 60
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06450f92c09c1df20800000000000000
+      internalID: 3445756243995546720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_93
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 56
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c081ca4f19e21a0800000000000000
+      internalID: -6832363104629158831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_94
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 56
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238a311b2ac189ab0800000000000000
+      internalID: -5001215901113800654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw 1
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 56
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53087eee1b6bb4390800000000000000
+      internalID: -7832966251547230155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw 2
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 56
+        width: 28
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83ff34b137f26050800000000000000
+      internalID: 5792463863601427338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw 3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 56
+        width: 30
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f133ad2b553269e90800000000000000
+      internalID: -7019384118230502625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw 4
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 56
+        width: 34
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb09e2a9430c110c0800000000000000
+      internalID: -4606689611665731393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw 5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 59
+        width: 38
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f43a0623a2732c0800000000000000
+      internalID: -4452043310774399200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 56
+        width: 32
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d389a4a195e66ee40800000000000000
+      internalID: 5685352908574070845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9484df6f79dc20180800000000000000
+      internalID: -9150525440295876535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_102
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 66
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167e7ded22ec2b690800000000000000
+      internalID: -7587775773002963103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_103
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 74
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ed76aa3a9e260b0800000000000000
+      internalID: -5736766086168715772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_104
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 57
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f94ce931384da0800000000000000
+      internalID: -5960459981977685314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95785358316ba2af0800000000000000
+      internalID: -420323420250208423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2176b45319f9569f0800000000000000
+      internalID: -475798739604510958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274e20dc0e4063930800000000000000
+      internalID: 4122487872462972018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_108
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1852b5c9e11c20690800000000000000
+      internalID: -7637329680850541183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: raza54bbig1_1_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744f73f51c553c470800000000000000
+      internalID: 8413662817872770119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Goal 1: 5591187136408887710
+      Goal 2: -5513701095718574080
+      Goal 3: 8415153479918637011
+      Idle4: 3861947983188351355
+      Idle5: 1277244556700870343
+      Throw: 5685352908574070845
+      Throw 1: -7832966251547230155
+      Throw 2: 5792463863601427338
+      Throw 3: -7019384118230502625
+      Throw 4: -4606689611665731393
+      Throw 5: -4452043310774399200
+      Walk 1: 6495057465369923545
+      Walk 2: 5353780307694561269
+      Walk 3: 4802426413571922317
+      Walk 4: 2740000830030462745
+      raza54bbig1_1_0: 5398580495306554907
+      raza54bbig1_1_1: -8557072799654244623
+      raza54bbig1_1_101: -9150525440295876535
+      raza54bbig1_1_102: -7587775773002963103
+      raza54bbig1_1_103: -5736766086168715772
+      raza54bbig1_1_104: -5960459981977685314
+      raza54bbig1_1_105: -420323420250208423
+      raza54bbig1_1_106: -475798739604510958
+      raza54bbig1_1_107: 4122487872462972018
+      raza54bbig1_1_108: -7637329680850541183
+      raza54bbig1_1_109: 8413662817872770119
+      raza54bbig1_1_11: 6679946219981249513
+      raza54bbig1_1_12: -5715061594275795019
+      raza54bbig1_1_14: -2727900512082669106
+      raza54bbig1_1_16: 4784798078717826911
+      raza54bbig1_1_17: -3220176525389973872
+      raza54bbig1_1_18: 8957921580255681369
+      raza54bbig1_1_19: -3627141215834048580
+      raza54bbig1_1_2: -1994427180377585786
+      raza54bbig1_1_20: 8089453772659437774
+      raza54bbig1_1_21: -2430803831934268516
+      raza54bbig1_1_22: 222543661457098485
+      raza54bbig1_1_23: 1522342389013126331
+      raza54bbig1_1_24: -3881698032563467092
+      raza54bbig1_1_25: 359059325156771519
+      raza54bbig1_1_26: -4497193219807572596
+      raza54bbig1_1_27: -3628146559721247942
+      raza54bbig1_1_28: 5827882548770341513
+      raza54bbig1_1_29: -6909156051257805354
+      raza54bbig1_1_3: 8004080824414757895
+      raza54bbig1_1_30: 5769197139191901434
+      raza54bbig1_1_31: -2189284116880592649
+      raza54bbig1_1_32: -4398793686497365722
+      raza54bbig1_1_33: 4882329382678050244
+      raza54bbig1_1_34: 4972075408844365616
+      raza54bbig1_1_35: 7453693230955707232
+      raza54bbig1_1_36: -3437185915838035861
+      raza54bbig1_1_37: -6268399581053340324
+      raza54bbig1_1_38: -5756198157800478607
+      raza54bbig1_1_39: 6499187002636738753
+      raza54bbig1_1_40: -4866150038290675939
+      raza54bbig1_1_41: -7250568906787754710
+      raza54bbig1_1_42: 6671383459506820418
+      raza54bbig1_1_43: 458640139192140898
+      raza54bbig1_1_44: -1486463767964769637
+      raza54bbig1_1_45: -376173328357456838
+      raza54bbig1_1_46: 7040413469874300574
+      raza54bbig1_1_47: 6370854809746178805
+      raza54bbig1_1_48: -5578926850849935036
+      raza54bbig1_1_49: -5354509816440812368
+      raza54bbig1_1_5: -8304373749644174789
+      raza54bbig1_1_50: 7692263453368021203
+      raza54bbig1_1_51: 2511897949296145595
+      raza54bbig1_1_53: 8108004565432011055
+      raza54bbig1_1_54: -4543353548609001893
+      raza54bbig1_1_55: 8246537065968871548
+      raza54bbig1_1_56: 5963520386954031953
+      raza54bbig1_1_57: 6216572484154982790
+      raza54bbig1_1_58: 9208957754481983599
+      raza54bbig1_1_59: -6404965880103014581
+      raza54bbig1_1_6: -8049650449003379593
+      raza54bbig1_1_60: 1918456822770768202
+      raza54bbig1_1_61: -7214421687249556945
+      raza54bbig1_1_62: -3065540213121781697
+      raza54bbig1_1_63: -5698320084114316824
+      raza54bbig1_1_64: 7587563687897673906
+      raza54bbig1_1_65: 3462347058842770697
+      raza54bbig1_1_66: -2582470170278317689
+      raza54bbig1_1_67: -9140248742355565141
+      raza54bbig1_1_68: -448141003478180126
+      raza54bbig1_1_69: -3464089156897774181
+      raza54bbig1_1_70: -734141785146518954
+      raza54bbig1_1_71: -8134341704359186656
+      raza54bbig1_1_73: -5621283947091859322
+      raza54bbig1_1_74: 5442067815121750723
+      raza54bbig1_1_75: -774976102295470161
+      raza54bbig1_1_77: -1327823731137383144
+      raza54bbig1_1_78: -685152758927025411
+      raza54bbig1_1_79: 855193567562676626
+      raza54bbig1_1_8: 810440585225648885
+      raza54bbig1_1_80: -4879747845595753162
+      raza54bbig1_1_81: -5504961173392862576
+      raza54bbig1_1_82: -8794090772604863507
+      raza54bbig1_1_83: 4243698882152433731
+      raza54bbig1_1_84: 4928057452462322692
+      raza54bbig1_1_85: -2452968588847574065
+      raza54bbig1_1_86: -7988507322862627473
+      raza54bbig1_1_87: -8311169262772735794
+      raza54bbig1_1_88: -4036768832508851139
+      raza54bbig1_1_89: -3670561147550836281
+      raza54bbig1_1_90: -169907838595532503
+      raza54bbig1_1_91: -3563304766057735002
+      raza54bbig1_1_92: 3445756243995546720
+      raza54bbig1_1_93: -6832363104629158831
+      raza54bbig1_1_94: -5001215901113800654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
