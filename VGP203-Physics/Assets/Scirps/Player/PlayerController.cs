@@ -250,7 +250,7 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
 
         //rb.bodyType = RigidbodyType2D.Kinematic;
-        rb.bodyType = RigidbodyType2D.Dynamic;
+        rb.bodyType = RigidbodyType2D.Kinematic;
         rb.gravityScale = 0;
 
         targetYPos = transform.position.y;

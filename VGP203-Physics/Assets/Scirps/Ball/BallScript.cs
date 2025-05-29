@@ -97,7 +97,7 @@ public class BallScript : MonoBehaviour
         launchAngle = angleSlider.value;
         launchSpeed = speedSlider.value;
 
-        //Debug.Log($"Angle: {launchAngle}, Speed: {launchSpeed}");
+        Debug.Log($"Angle: {launchAngle}, Speed: {launchSpeed}");
 
         changePower();
 
@@ -294,14 +294,15 @@ public class BallScript : MonoBehaviour
         Vector3[] positions = new Vector3[pointsCount];
 
         float angleRad = launchAngle * Mathf.Deg2Rad;
-        Vector2 velocity = new Vector2
-            (launchSpeed * Mathf.Cos(angleRad), launchSpeed * Mathf.Sin(angleRad));
+        Vector2 velocity = new Vector2 (launchSpeed * Mathf.Cos(angleRad), launchSpeed * Mathf.Sin(angleRad));
 
         for (int i = 0; i < pointsCount; i++)
         {
             float t = i * timeStep;
             Vector3 pos = (Vector2)hand.position + velocity * t + 0.5f * new Vector2(0, gravity) * t * t;
-
+            //
+            //Fix this next line here
+            if ((pos - hand.position).magnitude > 5f) break;
             positions[i] = pos;
         }
 
@@ -360,6 +361,7 @@ public class BallScript : MonoBehaviour
             startPosition = transform.position;
             timeElapsed = 0f;
             eg.ballStolen();
+            //FindAnyObjectByType<GameoverScript>().ResetGame();
         }
 
         if(collision.collider.CompareTag("Ground") && isThrown)

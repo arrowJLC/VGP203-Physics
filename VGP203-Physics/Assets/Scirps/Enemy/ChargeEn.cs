@@ -60,6 +60,8 @@ public class ChargeEn : MonoBehaviour
             if (ball != null && enemyHeld)
             {
                 ball.Hold(bc, EnHand);
+                //FindObjectOfType<GameoverScript>().ResetGame();
+                //FindAnyObjectByType<GameoverScript>().ResetGame();
                 eg.ballStolen();
             }
         }
@@ -74,7 +76,13 @@ public class ChargeEn : MonoBehaviour
         }
     }
 
-
+    //private void OnCollisionEnter2D(Collision2D collision)
+   // {
+    //   // if (collision.gameObject.CompareTag("Ball"))
+      //  {
+            
+        //}
+  //  }
 }
 
 
