@@ -12,6 +12,7 @@ public class CanvasManager : MonoBehaviour
     public Button howToButton;
     public Button quitButton;
     public Button backButton;
+    public Button playAgainButton;
 
     [Header("Menus")]
     public GameObject mainMenu;
@@ -24,6 +25,7 @@ public class CanvasManager : MonoBehaviour
         if (playButton) playButton.onClick.AddListener(() => SceneManager.LoadScene("MainLevel"));
         if (howToButton) howToButton.onClick.AddListener(() => SetMenus(settingsMenu, mainMenu));
         if (backButton) backButton.onClick.AddListener(() => SetMenus(mainMenu, settingsMenu));
+        if (playAgainButton) playAgainButton.onClick.AddListener(() => SceneManager.LoadScene("MainMenu"));
 
 
         //inital menu states
