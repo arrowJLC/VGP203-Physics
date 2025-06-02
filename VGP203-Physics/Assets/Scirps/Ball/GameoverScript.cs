@@ -94,12 +94,11 @@ public class GameoverScript : MonoBehaviour
         {
             canReset = false;
             Time.timeScale = 1; // Make sure game is unpaused before switching scenes
+
+            ScoreManager.Instance.PlayerScore = 0;
             SceneManager.LoadScene("GameOver");
             return;
         }
-       
-        
-        
     }
 }
 

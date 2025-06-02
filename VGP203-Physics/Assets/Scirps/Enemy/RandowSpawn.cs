@@ -140,7 +140,6 @@ public class RandowSpawn : MonoBehaviour
 
     private void Start()
     {
-        // Create a list of evenly spaced X positions (e.g., every 3 units from -6 to 6)
         for (float x = -5f; x <= 6f; x += 3f)
         {
             availableXPositions.Add(x);
@@ -153,20 +152,20 @@ public class RandowSpawn : MonoBehaviour
 
     private void spawnUpperEN()
     {
-        SpawnRow(3, -1.71f);
+        spawnRow(3, -1.71f);
     }
 
     private void spawnMiddleN()
     {
-        SpawnRow(2, -2.64f);
+        spawnRow(2, -2.64f);
     }
 
     private void spawnLowerEN()
     {
-        SpawnRow(3, -3.69f);
+        spawnRow(3, -3.69f);
     }
 
-    private void SpawnRow(int count, float yPos)
+    private void spawnRow(int count, float yPos)
     {
         List<float> rowXPositions = new List<float>(availableXPositions);
 
@@ -180,7 +179,7 @@ public class RandowSpawn : MonoBehaviour
 
             int randomIndex = Random.Range(0, rowXPositions.Count);
             float xPos = rowXPositions[randomIndex];
-            rowXPositions.RemoveAt(randomIndex); // Ensure no overlap in this row
+            rowXPositions.RemoveAt(randomIndex);
 
             int prefabIndex = Random.Range(0, ENcharger.Length);
             Instantiate(ENcharger[prefabIndex], new Vector3(xPos, yPos, 0f), Quaternion.identity);

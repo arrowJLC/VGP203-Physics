@@ -280,15 +280,15 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.W))
         {
-            HandleDirectionInput(DirectionType.Up);
+            playerDirection(DirectionType.Up);
         }
         else if (Input.GetKeyDown(KeyCode.S))
         {
-            HandleDirectionInput(DirectionType.Down);
+            playerDirection(DirectionType.Down);
         }
     }
 
-    private void HandleDirectionInput(DirectionType direction)
+    private void playerDirection(DirectionType direction)
     {
         switch (direction)
         {
@@ -300,11 +300,9 @@ public class PlayerController : MonoBehaviour
                 break;
         }
 
-        // Clamp movement between top and bottom bounds
         targetYPos = Mathf.Clamp(targetYPos, -3.33f, -1.33f);
 
-        // Instantly move to the target Y position
-        transform.position = new Vector3(transform.position.x, targetYPos, transform.position.z);
+        transform.position = new Vector2(transform.position.x, targetYPos);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -315,7 +313,7 @@ public class PlayerController : MonoBehaviour
 
             if (ball != null)
             {
-                anim.SetTrigger("beforeThrow");
+                //anim.SetTrigger("beforeThrow");
                 ball.Hold(pc, Hand);
             }
         }

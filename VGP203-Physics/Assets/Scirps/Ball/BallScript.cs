@@ -37,15 +37,14 @@ public class BallScript : MonoBehaviour
     //public float gravity = 6f;
 
 
-    public float launchAngle = 45f;  
-    public float launchSpeed = 10f;       
+    public float launchAngle = 45f;
+    public float launchSpeed = 10f;
     public float gravity = -9.81f;
-    public int trajectoryPoints = 30;
     public float timeStep = 0.1f;
 
     private Vector2 initialVelocity;
     private Vector2 startPosition;
-    private float timeElapsed = 0f;
+    private float timeSince = 0f;
     private bool isThrown = false;
     public bool playerHeld = false;
     public int pointsCount = 50;
@@ -103,16 +102,16 @@ public class BallScript : MonoBehaviour
 
         if (!isThrown && playerHeld)
         {
-            DrawTrajectory(); // Update trajectory while held, before throw
+            drawTrajectory();
         }
 
 
         if (isThrown)
         {
-            timeElapsed += Time.deltaTime;
+            timeSince += Time.deltaTime;
 
-            float x = startPosition.x + initialVelocity.x * timeElapsed;
-            float y = startPosition.y + initialVelocity.y * timeElapsed + 0.5f * gravity * Mathf.Pow(timeElapsed, 2);
+            float x = startPosition.x + initialVelocity.x * timeSince;
+            float y = startPosition.y + initialVelocity.y * timeSince + 0.5f * gravity * Mathf.Pow(timeSince, 2);
 
             transform.position = new Vector2(x, y);
             // rb.MovePosition(new Vector2(x, y));
@@ -170,7 +169,7 @@ public class BallScript : MonoBehaviour
 
     }
 
-   // private void OnDestroy() => PlayerController.OnControllerColliderHitInternal -= OnPlayerControllerHit;
+    // private void OnDestroy() => PlayerController.OnControllerColliderHitInternal -= OnPlayerControllerHit;
 
     void OnPlayerControllerHit(Collider2D playerCollider, ControllerColliderHit thingThatHitPlayer)
     {
@@ -187,14 +186,12 @@ public class BallScript : MonoBehaviour
         playerHeld = true;
 
         JumpEN[] j = FindObjectsByType<JumpEN>(FindObjectsSortMode.None);
-        
+
         foreach (JumpEN jump in j)
         {
             jump.hasBall = true;
 
         }
-
-
 
         ChargeEn[] c = FindObjectsOfType<ChargeEn>();
 
@@ -215,7 +212,7 @@ public class BallScript : MonoBehaviour
         transform.parent = null;
         cc.isTrigger = false;
         Physics2D.IgnoreCollision(playerCollider, cc, false);
-        ThrowBall();
+        throwBall();
     }
 
     //public void Steal(Collider2D playerCollider)
@@ -244,7 +241,6 @@ public class BallScript : MonoBehaviour
 
         }
 
-
         ChargeEn[] c = FindObjectsByType<ChargeEn>(FindObjectsSortMode.None);
 
         foreach (ChargeEn charge in c)
@@ -255,7 +251,7 @@ public class BallScript : MonoBehaviour
     }
 
 
-    public void ThrowBall()
+    public void throwBall()
     {
         float angleRad = launchAngle * Mathf.Deg2Rad;
 
@@ -264,21 +260,12 @@ public class BallScript : MonoBehaviour
 
         initialVelocity = new Vector2(vx, vy);
         startPosition = transform.position;
-        timeElapsed = 0f;
+        timeSince = 0f;
         isThrown = true;
         line.enabled = false;
 
         cc.isTrigger = false;
-        rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
-
-        JumpEN[] j = FindObjectsByType<JumpEN>(FindObjectsSortMode.None);
-
-        //foreach (JumpEN jump in j)
-        //{
-        //    jump.hasBall = false;
-
-        //}
-
+        //rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
         ChargeEn[] c = FindObjectsOfType<ChargeEn>();
 
@@ -289,29 +276,58 @@ public class BallScript : MonoBehaviour
 
         }
     }
-    void DrawTrajectory()
+    //void drawTrajectory()
+    //{
+    //    Vector3[] positions = new Vector3[pointsCount];
+
+    //    float angleRad = launchAngle * Mathf.Deg2Rad;
+    //    Vector2 velocity = new Vector2(launchSpeed * Mathf.Cos(angleRad), launchSpeed * Mathf.Sin(angleRad));
+
+    //    for (int i = 0; i < pointsCount; i++)
+    //    {
+    //        float t = i * timeStep;
+    //        Vector3 pos = (Vector2)hand.position + velocity * t + 0.5f * new Vector2(0, gravity) * t * t;
+    //        //
+    //        //Fix this next line here
+    //        if ((pos - hand.position).magnitude > 5f) break;
+    //        positions[i] = pos;
+    //    }
+
+    //    line.SetPositions(positions);
+    //}
+    void drawTrajectory()
     {
         Vector3[] positions = new Vector3[pointsCount];
 
         float angleRad = launchAngle * Mathf.Deg2Rad;
-        Vector2 velocity = new Vector2 (launchSpeed * Mathf.Cos(angleRad), launchSpeed * Mathf.Sin(angleRad));
+        Vector2 velocity = new Vector2(
+            launchSpeed * Mathf.Cos(angleRad),
+            launchSpeed * Mathf.Sin(angleRad)
+        );
+
+        Vector2 gravityVec = new Vector2(0, gravity);
+        int actualCount = 0;
 
         for (int i = 0; i < pointsCount; i++)
         {
             float t = i * timeStep;
-            Vector3 pos = (Vector2)hand.position + velocity * t + 0.5f * new Vector2(0, gravity) * t * t;
-            //
-            //Fix this next line here
-            if ((pos - hand.position).magnitude > 5f) break;
-            positions[i] = pos;
+
+            Vector3 pos = (Vector2)hand.position + velocity * t + 0.5f * gravityVec * t * t;
+
+            if ((pos - hand.position).sqrMagnitude > 25f)  // Equivalent to > 5 units
+                break;
+
+            positions[actualCount++] = pos;
         }
 
-        line.SetPositions(positions);
+        line.positionCount = actualCount;
+        line.SetPositions(positions[..actualCount]); // C# 8+ syntax (safe slice)
     }
+
 
     void changePower()
     {
-        if(playerHeld)
+        if (playerHeld)
         {
             if (Input.GetKeyDown(KeyCode.J))
             {
@@ -351,28 +367,25 @@ public class BallScript : MonoBehaviour
     {
         if (collision.collider.CompareTag("JumpEn"))
         {
-            Debug.Log("Kinematic bounce off JumpEn");
+            Debug.Log("bounce off JumpEn");
 
             // Reflect velocity manually
             Vector2 normal = collision.contacts[0].normal;
-            initialVelocity = Vector2.Reflect(initialVelocity, normal) * 0.8f; // simulate energy loss
+            initialVelocity = Vector2.Reflect(initialVelocity, normal) * 0.8f;
 
-            // Reset timer so position updates correctly from new direction
             startPosition = transform.position;
-            timeElapsed = 0f;
+            timeSince = 0f;
             eg.ballStolen();
-            //FindAnyObjectByType<GameoverScript>().ResetGame();
         }
 
-        if(collision.collider.CompareTag("Ground") && isThrown)
+        if (collision.collider.CompareTag("Ground") && isThrown)
         {
             Debug.Log("gameOver");
             Vector2 normal = collision.contacts[0].normal;
-            initialVelocity = Vector2.Reflect(initialVelocity, normal) * 0.8f; // simulate energy loss
+            initialVelocity = Vector2.Reflect(initialVelocity, normal) * 0.8f;
 
-            // Reset timer so position updates correctly from new direction
             startPosition = transform.position;
-            timeElapsed = 0f;
+            timeSince = 0f;
 
             if (initialVelocity.magnitude < 0.5f)
             {
@@ -380,9 +393,44 @@ public class BallScript : MonoBehaviour
                 isThrown = false;
 
             }
-                eg.ballStolen();
+            eg.ballStolen();
         }
     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
 
@@ -411,7 +459,7 @@ public class BallScript : MonoBehaviour
     //        line.SetPositions(positions);
     //    }
     //}
-}
+
 
 
 

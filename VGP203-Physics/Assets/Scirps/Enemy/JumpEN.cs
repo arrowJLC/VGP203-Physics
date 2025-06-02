@@ -13,7 +13,7 @@ public class JumpEN : MonoBehaviour
     public bool hasBall = false;
 
 
-    [SerializeField] public Transform jEnHand;
+    //[SerializeField] public Transform jEnHand;
     Rigidbody2D rb;
     BallScript ball;
     BoxCollider2D bc;

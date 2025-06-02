@@ -115,20 +115,17 @@ public class WinScript : MonoBehaviour
 
     private void Start()
     {
-        // Save initial state
         initialPosition = transform.position;
         initialRotation = transform.rotation;
 
-        // Set the score text in ScoreManager if it's not null
         if (playerScore != null)
         {
-            ScoreManager.Instance.SetScoreText(playerScore);
+            ScoreManager.Instance.scoreText(playerScore);
         }
     }
 
     public void ResetObject()
     {
-        // Reset to initial state
         transform.position = initialPosition;
         transform.rotation = initialRotation;
         hasScored = false;
@@ -147,13 +144,12 @@ public class WinScript : MonoBehaviour
         {
             hasScored = true;
 
-            Debug.Log("Ball entered goal. Winning...");
+            Debug.Log("Ball entered goal");
 
             if (playerGoal != null)
                 playerGoal.SetActive(true);
 
-            // Use ScoreManager to update score
-            ScoreManager.Instance.AddScore(1);
+            ScoreManager.Instance.addScore(1);
         }
     }
 }

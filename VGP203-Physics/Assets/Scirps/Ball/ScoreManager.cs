@@ -150,7 +150,7 @@ public class ScoreManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // Persist this object across scenes
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -158,27 +158,27 @@ public class ScoreManager : MonoBehaviour
             return;
         }
 
-        UpdateScoreUI();
+        updateScore();
     }
 
     private void Start()
     {
-        UpdateScoreUI(); // Ensure UI is updated on start
+        updateScore(); 
     }
 
-    public void AddScore(int amount)
+    public void addScore(int amount)
     {
         PlayerScore += amount;
-        UpdateScoreUI();
+        updateScore();
     }
 
-    public void SetScoreText(TMP_Text newText)
+    public void scoreText(TMP_Text newText)
     {
         playerScoreText = newText;
-        UpdateScoreUI();
+        updateScore();
     }
 
-    private void UpdateScoreUI()
+    private void updateScore()
     {
         if (playerScoreText != null)
         {
